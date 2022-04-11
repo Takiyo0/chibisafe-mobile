@@ -16,5 +16,9 @@ Chibisafe-mobile is a mobile client (android only right now) to access your chib
 
 #### Pages 
 
-![First section](https://user-images.githubusercontent.com/60313514/162763579-299a0648-de13-4782-82cb-4156ed0e1f54.png)
+![First section (2)](https://user-images.githubusercontent.com/60313514/162769082-c1b6c2c8-e410-47b7-b680-c1a6ef63ea1d.png)
 ![Second section](https://user-images.githubusercontent.com/60313514/162763940-b4354971-2d8e-4415-9250-c29e554c23c1.png)
+
+
+#### Settings
+![First section (3)](https://user-images.githubusercontent.com/60313514/162769682-3176ef63-b3ce-49bd-86ca-6cc40f5e1d74.png)
